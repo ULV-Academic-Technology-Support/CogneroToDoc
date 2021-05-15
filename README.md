@@ -3,6 +3,9 @@ This application converts Cognero tests represented by xml files to human-readab
 
 
 ## Usage
+
+Requires the [https://dotnet.microsoft.com/download/dotnet/3.1](dotnet core 3.1 runtime).
+
 ### CLI
 Windows:
 
