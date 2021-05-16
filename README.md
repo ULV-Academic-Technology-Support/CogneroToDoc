@@ -3,6 +3,9 @@ This application converts Cognero tests represented by xml files to human-readab
 
 
 ## Usage
+
+May require installing the dotnet 3.1 x64 SDK available [here](https://dotnet.microsoft.com/download).
+
 ### CLI
 Windows:
 
